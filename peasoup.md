@@ -1,6 +1,7 @@
 #Ingredients 
 -peas 
--onions 
+-onions
+-spring onions 
 -potatoes
 #Instructions 
 
