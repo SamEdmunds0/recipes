@@ -5,3 +5,6 @@
 -potatoes £3
 #Instructions 
 - hot water and wait
+#Instructions
+-cold water with soap  
+1
