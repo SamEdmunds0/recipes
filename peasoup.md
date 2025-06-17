@@ -4,4 +4,4 @@
 -spring onion £0.75s 
 -potatoes £3
 #Instructions 
-
+- hot water and wait
