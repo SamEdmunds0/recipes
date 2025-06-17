@@ -3,5 +3,6 @@
 -onions £1
 -spring onion £0.75s 
 -potatoes £3
-#Instructions 
+#Instructions
+-cold water with soap  
 
